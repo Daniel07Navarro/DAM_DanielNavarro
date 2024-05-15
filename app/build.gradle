@@ -4,12 +4,12 @@ plugins {
 
 android {
     namespace 'com.example.dam_danielnavarro'
-    compileSdk 33
+    compileSdk 34
 
     defaultConfig {
         applicationId "com.example.dam_danielnavarro"
         minSdk 24
-        targetSdk 33
+        targetSdk 34
         versionCode 1
         versionName "1.0"
 

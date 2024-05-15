@@ -1,3 +1,17 @@
 <resources>
     <string name="app_name">DAM_DanielNavarro</string>
+    <string name="radioButton_Sistemas">Ingenieria Sistemas</string>
+    <string name="radioButton_IngenieriaAmbiental">Ingenieria Ambiental</string>
+    <string name="radioButton_IngenieriaMecanica">Ingenieria Mecanica</string>
+    <string name="radioButton_Administración">Administración</string>
+    <string name="textView_ApellidosNombres">Apellidos y Nombre</string>
+    <string name="textView_CorreoElectronico">Correo Electronico</string>
+    <string name="textView_Clave">Clave</string>
+    <string name="textView_FechaNacimiento">Fecha Nacimiento</string>
+    <string name="textView_Carrera">Carrera</string>
+    <string name="textView_Medio">¿Por que medio se enteró de la convocatoria?</string>
+    <string name="checkBox_Radio">Radio</string>
+    <string name="checkBox_Internet">Internet</string>
+    <string name="checkBox_Amigo">Amigo</string>
+    <string name="checkBox_Publicidad">Publicidad</string>
 </resources>
